@@ -67,7 +67,7 @@ public class App {
         for (int num : array) {
             if (num > 0) {
                 count++;
-            }
+                countPositiveElements(int[]): int          }
         }
         return count;
     }
